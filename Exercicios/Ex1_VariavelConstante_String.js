@@ -33,7 +33,7 @@ function retornaNomeCompleto() {
     /*
      * Declare na linha 37 a variável `nomeCompleto` e atribua a ela o seu nome completo
      */
-    var nomeCompleto = 'Thiago Rodrigues Pedrozo';
+    var nomeCompleto = 'Thiago Pedrozo';
 
 
 // fim do seu código
